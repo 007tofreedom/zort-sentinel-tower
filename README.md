@@ -1,11 +1,10 @@
 # Z.O.R.T Sentinel Agency Command Center 🛸
 
-https://github.com/007tofreedom/zort-sentinel-tower
-
-**30-second demo of the tower running (plays on GitHub):**
+**Watch the tower running (auto-loops):**
 
 ![Agency Tower Running](agency_tower_demo.gif)
----
+
+------
 
 **Offline Python terminal simulator** built for real mission work.
 
