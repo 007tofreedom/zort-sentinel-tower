@@ -4,8 +4,7 @@ https://github.com/007tofreedom/zort-sentinel-tower
 
 **30-second demo of the tower running (plays on GitHub):**
 
-![Agency Tower Demo](agency_tower_demo.mp4)
-
+![Agency Tower Running](agency_tower_demo.gif)
 ---
 
 **Offline Python terminal simulator** built for real mission work.
