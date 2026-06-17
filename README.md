@@ -2,9 +2,9 @@
 
 https://github.com/007tofreedom/zort-sentinel-tower
 
-**Watch the 30-second demo (loops automatically):**
+**30-second demo of the tower running (plays on GitHub):**
 
-<video src="agency_tower_demo.mp4" controls autoplay loop muted width="100%"></video>
+![Agency Tower Demo](agency_tower_demo.mp4)
 
 ---
 
@@ -21,7 +21,7 @@ https://github.com/007tofreedom/zort-sentinel-tower
 - God's Computer Link
 - Full Mission Reports + realistic budget & expenses
 
-**All runs completely offline** — no internet needed. Perfect for field use with your rugged laptop.
+**All runs completely offline** — no internet needed. Perfect for field use.
 
 **Quick Start (Copy & Paste):**
 ```bash
