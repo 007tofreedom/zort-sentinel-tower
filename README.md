@@ -1,7 +1,5 @@
 # Z.O.R.T Sentinel Agency Command Center 🛸
 
-https://github.com/007tofreedom/zort-sentinel-tower
-
 **Watch the tower running live (auto-loops):**
 
 ![Agency Tower Running](agency_tower_demo.gif)
@@ -26,3 +24,4 @@ https://github.com/007tofreedom/zort-sentinel-tower
 git clone https://github.com/007tofreedom/zort-sentinel-tower.git
 cd zort-sentinel-tower
 python agency_tower.py
+Mac users run python3 agency_tower.py
